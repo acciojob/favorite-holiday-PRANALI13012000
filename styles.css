@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+.container{
+	background-color:lightblue;
+	border:2px solid black;
+	
+}
+h1{
+	text-decoration-color:black;
+	width:20px;
+	text-align:center;
+	
+}
+
